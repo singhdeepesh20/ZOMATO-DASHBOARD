@@ -1,9 +1,8 @@
 # ZOMATO-DASHBOARD
 
-https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC.png
+  zomato dashboard: https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC.png
 
 
-DASHBOARD LINK : https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/2af87a6fa649eaa5ae926428975fc93caec2471f/zomato%20dashboard.pbix
 
 
 Zomato Insights Dashboard
