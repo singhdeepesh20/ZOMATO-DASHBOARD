@@ -1,4 +1,4 @@
-# ZOMATO-DASHBOARD-USING-POWER-BI
+# ZOMATO-DASHBOARD
 
   
 
@@ -32,7 +32,7 @@ Delivery Time Chart: Displays delivery time performance across different custome
 Interactive Filters: Users can filter data based on restaurant names, locations, customer ratings, and delivery partners.
 
 ---
-https://github.com/singhdeepesh20/ZOMATO-DASHBOARD-USING-POWER-BI
+https://github.com/singhdeepesh20/ZOMATO-DASHBOARD
 
 
 
