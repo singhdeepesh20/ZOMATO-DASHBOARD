@@ -1,7 +1,7 @@
 # ZOMATO-DASHBOARD
 
 
-DASHBOARD LINK : C:\Users\Dell\Documents\zomato dashboard.pbix
+DASHBOARD LINK : "C:\Users\Dell\Documents\zomato dashboard.pbix"
 
 
 Zomato Insights Dashboard
