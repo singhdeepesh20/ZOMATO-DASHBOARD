@@ -7,15 +7,12 @@
 
 Zomato Insights Dashboard
 
-![zomato dashboard]: https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC.png
-
-
+![Vishal Store Annual Sales Analysis 2024](https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC).png
 
 Overview
 
 This project is a Zomato Insights Dashboard built using Power BI (or any other tool you used). The dashboard provides key analytics and visualizations related to restaurant performance, customer orders, delivery times, and customer satisfaction.
 
-![zomato dashboard]: https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC.png
 
 
 Features
