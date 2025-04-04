@@ -1,5 +1,7 @@
 # ZOMATO-DASHBOARD
 
+https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC.png
+
 
 DASHBOARD LINK : https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/2af87a6fa649eaa5ae926428975fc93caec2471f/zomato%20dashboard.pbix
 
@@ -25,4 +27,5 @@ Cuisine Popularity Chart: Identifies the most popular cuisines based on the numb
 Delivery Time Chart: Displays delivery time performance across different customer locations.
 
 Interactive Filters: Users can filter data based on restaurant names, locations, customer ratings, and delivery partners.
+
 
