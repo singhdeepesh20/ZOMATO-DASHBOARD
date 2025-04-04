@@ -7,7 +7,7 @@
 
 Zomato Insights Dashboard
 
-![Vishal Store Annual Sales Analysis 2024](https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC).png
+![ZOMATO-DASHBOARD](https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC.png)
 
 Overview
 
