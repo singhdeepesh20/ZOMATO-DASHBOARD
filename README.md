@@ -1,7 +1,7 @@
 # ZOMATO-DASHBOARD
 
 
-DASHBOARD LINK : "C:\Users\Dell\Documents\zomato dashboard.pbix"
+DASHBOARD LINK : https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/2af87a6fa649eaa5ae926428975fc93caec2471f/zomato%20dashboard.pbix
 
 
 Zomato Insights Dashboard
